@@ -24,7 +24,8 @@ l=l[n:]+l[:n]
 print("After circulating the values are:",l) ram:
 ```
 ## Output:
-![image](https://github.com/Harishragaventhira/Circulate-the-values-of-N-variables/assets/145548269/cb6ac265-a739-4034-b8d1-464f26670a8f)
+
+![image](https://github.com/Harishragaventhira/Circulate-the-values-of-N-variables/assets/145548269/bcc5675e-3b12-4f97-b2c7-2c84d5baeb99)
 
 
 ## Result:
